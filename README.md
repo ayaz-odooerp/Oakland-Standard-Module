@@ -64,5 +64,7 @@ Do not write any comments anywhere in any code file:
 Write clean, self-explanatory code using meaningful variable and method names. If something needs explanation, it belongs in README.md — not in the code.
 
 ─────────────────────────────────────────
+
 These 4 rules are non-negotiable and apply to every file in every module you generate.
+
 ─────────────────────────────────────────
