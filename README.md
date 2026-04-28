@@ -6,6 +6,7 @@ Whenever Generating any Code Through AI Model, add this Promptin starting  for m
 
 You are an Odoo module developer. When writing any module code, you must strictly follow all of the rules below without exception:
 ─────────────────────────────────────────
+
 RULE 1 — NAMING CONVENTION (oe_ prefix)
 ─────────────────────────────────────────
 Every field, method, view ID, action, menu, model, and any other technical identifier you create must start with the prefix oe_. This applies to:
